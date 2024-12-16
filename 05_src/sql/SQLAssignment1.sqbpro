@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="farmersmarket.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure pragmas browser query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="8651"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/><expanded_item id="4" parent="1"/></tab_structure><tab_browse><table title="customer_purchases" custom_title="0" dock_id="1" table="4,18:maincustomer_purchases"/><dock_state state="000000ff00000000fd00000001000000020000043e000003a8fc0100000001fb000000160064006f0063006b00420072006f007700730065003101000000000000043e0000015c00ffffff0000043e0000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="booth" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="75"/><column index="2" value="90"/><column index="3" value="300"/><column index="4" value="70"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="customer" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="65"/><column index="2" value="106"/><column index="3" value="104"/><column index="4" value="113"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="customer_purchases" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="69"/><column index="2" value="64"/><column index="3" value="85"/><column index="4" value="79"/><column index="5" value="55"/><column index="6" value="158"/><column index="7" value="103"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="market_date_info" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="85"/><column index="2" value="78"/><column index="3" value="71"/><column index="4" value="66"/><column index="5" value="94"/><column index="6" value="89"/><column index="7" value="70"/><column index="8" value="140"/><column index="9" value="93"/><column index="10" value="95"/><column index="11" value="87"/><column index="12" value="93"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="postal_data" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="75"/><column index="2" value="62"/><column index="3" value="93"/><column index="4" value="57"/><column index="5" value="133"/><column index="6" value="92"/><column index="7" value="86"/><column index="8" value="66"/><column index="9" value="194"/><column index="10" value="196"/><column index="11" value="60"/><column index="12" value="82"/><column index="13" value="109"/><column index="14" value="101"/><column index="15" value="96"/><column index="16" value="172"/><column index="17" value="170"/><column index="18" value="108"/><column index="19" value="147"/><column index="20" value="216"/><column index="21" value="210"/><column index="22" value="300"/><column index="23" value="121"/><column index="24" value="163"/><column index="25" value="166"/><column index="26" value="166"/><column index="27" value="92"/><column index="28" value="125"/><column index="29" value="85"/><column index="30" value="93"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="product" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="58"/><column index="2" value="296"/><column index="3" value="117"/><column index="4" value="104"/><column index="5" value="89"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="product_category" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="103"/><column index="2" value="234"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="vendor" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="54"/><column index="2" value="257"/><column index="3" value="234"/><column index="4" value="129"/><column index="5" value="127"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="vendor_booth_assignments" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="56"/><column index="2" value="77"/><column index="3" value="85"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="vendor_inventory" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="85"/><column index="2" value="46"/><column index="3" value="56"/><column index="4" value="59"/><column index="5" value="71"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">
+SELECT *
+FROM customer;
+
+SELECT *
+FROM customer
+ORDER BY customer_last_name, customer_first_name
+LIMIT 10;
+
+SELECT *
+FROM customer_purchases
+WHERE product_id IN (4, 9);
+
+SELECT *, 
+	quantity * cost_to_customer_per_qty AS price
+FROM customer_purchases
+WHERE vendor_id &gt;= 8 AND vendor_id &lt;= 10;
+
+SELECT product_id, product_name,
+	CASE
+		WHEN product_qty_type = 'unit' 
+		THEN 'unit'
+		ELSE 'bulk'
+	END AS product_qty_type_condensed
+FROM product;
+
+SELECT product_id, product_name,
+	CASE
+		WHEN product_qty_type = 'unit' 
+		THEN 'unit'
+		ELSE 'bulk'
+	END AS prod_qty_type_condensed,
+	CASE
+		WHEN LOWER(product_name) LIKE '%pepper%' THEN 1
+		ELSE 0
+	END AS pepper_flag
+FROM product;
+
+SELECT 
+	vendor.*,
+	vendor_booth_assignments.*
+FROM
+	vendor
+INNER JOIN vendor_booth_assignments 
+	ON vendor.vendor_id = vendor_booth_assignments.vendor_id
+ORDER BY
+		vendor.vendor_name,
+		vendor_booth_assignments.market_date;
+		
+SELECT vendor_id,
+	COUNT(*) AS booth_rental_count
+FROM vendor_booth_assignments
+GROUP BY vendor_id
+ORDER BY booth_rental_count DESC;
+
+SELECT
+	c.customer_id,
+	c.customer_first_name,
+	c.customer_last_name,
+	sum(cp.cost_to_customer_per_qty * cp.quantity) AS total_spent
+FROM
+	customer c
+INNER JOIN
+	customer_purchases cp ON c.customer_id = cp.customer_id
+GROUP BY
+	c.customer_id, c.customer_first_name, c.customer_last_name
+HAVING
+	SUM(cp.cost_to_customer_per_qty * cp.quantity) &gt; 2000
+ORDER BY
+	c.customer_last_name, c.customer_first_name;
+	
+CREATE TEMPORARY TABLE temp.new_vendor (
+	vendor_id INT(11),
+	vendor_name VARCHAR(45),
+	vendor_type VARCHAR (45),
+	vendor_owner_first_name VARCHAR (45),
+	vendor_owner_last_name VARCHAR (45)
+	);
+INSERT INTO temp.new_vendor
+SELECT *
+FROM vendor;
+
+INSERT INTO temp.new_vendor (vendor_id, vendor_name, vendor_type, vendor_owner_first_name, vendor_owner_last_name)
+VALUES (10, 'Thomas''s Superfood Store', 'Fresh Focused', 'Thomas', 'Rosenthal');
+
+
+SELECT
+    customer_id,
+    strftime('%m', market_date) AS purchase_month,
+    strftime('%Y', market_date) AS purchase_year
+FROM
+    customer_purchases;
+
+
+SELECT
+    customer_id,
+    SUM(quantity * cost_to_customer_per_qty) AS total_spent
+FROM
+    customer_purchases
+WHERE
+    strftime('%Y', market_date) = '2022' AND strftime('%m', market_date) = '04'
+GROUP BY
+    customer_id;
+
+
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
